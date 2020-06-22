@@ -1,3 +1,4 @@
 def find_lowest_number(array)
-  array.min
+  lowest = array.min
+  lowest
 end

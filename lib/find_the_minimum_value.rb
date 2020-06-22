@@ -1,3 +1,3 @@
-def find_lowest_number(array)
+def find_min_value(array)
   array.min
 end
